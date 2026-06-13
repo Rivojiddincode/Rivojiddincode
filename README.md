@@ -1,221 +1,93 @@
 <div align="center">
 
-# ⚡ Rivojiddincode
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rivojiddincode&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20React%20%26%20Next.js%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-### Frontend Developer • React.js Enthusiast • Building Modern Web Experiences
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rivojiddincode&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-[![Visitors](https://komarev.com/ghpvc/?username=Rivojiddincode&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/Rivojiddincode)
-[![Stars](https://img.shields.io/github/stars/Rivojiddincode?style=for-the-badge&color=yellow)](https://github.com/Rivojiddincode?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/Rivojiddincode?style=for-the-badge&color=blue&label=Followers)](https://github.com/Rivojiddincode?tab=followers)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/Rivojiddincode/Rivojiddincode?style=for-the-badge&color=orange)](https://github.com/Rivojiddincode)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+interactive+web+apps+%F0%9F%9A%80;Mastering+React.js+%26+Next.js;Clean+code+is+a+form+of+art+%E2%9C%A8;Always+learning%2C+always+building)](https://github.com/Rivojiddincode)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-2ea44f?style=for-the-badge)](https://github.com/Rivojiddincode)
-[![Telegram](https://img.shields.io/badge/💬_Telegram-Message_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rivojiddincode)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rivojiddincode)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rivojiddincode&label=Profile%20Views&color=2F81F7&style=flat-square)](https://github.com/Rivojiddincode)
+[![Followers](https://img.shields.io/github/followers/Rivojiddincode?label=Followers&style=flat-square&color=2F81F7)](https://github.com/Rivojiddincode?tab=followers)
+[![Telegram](https://img.shields.io/badge/Telegram-Message_Me-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Rivojiddincode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rivojiddincode)
 
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%26+Next.js+Enthusiast;Clean+Code+is+an+Art;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
-</div>
+### 👋 About Me
 
----
+I'm a **passionate frontend developer** who loves building interactive, user-friendly, and responsive web applications. Currently focusing on mastering **React.js** and its ecosystem.
 
-## 📚 Table of Contents
+- 🔭 Currently working on modern web projects
+- 🌱 Currently learning advanced state management and Next.js
+- 💬 Ask me about HTML, CSS, JavaScript, React
+- ⚡ Fun fact: writing clean code is a form of art
 
-- [✨ About Me](#-about-me)
-- [🚀 What I Do](#-what-i-do)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📊 GitHub Stats](#-github-stats)
-- [🏆 GitHub Trophies](#-github-trophies)
-- [🐍 Contribution Graph](#-contribution-graph)
-- [🗺️ Roadmap](#️-roadmap)
-- [❓ FAQ](#-faq)
-- [🤝 Connect With Me](#-connect-with-me)
-- [📄 License](#-license)
+<br/>
 
----
+### 🧰 Languages
 
-## ✨ About Me
-
-> I am a **passionate frontend developer** who loves building interactive, user-friendly, and responsive web applications.
-
-- 🔭 Currently working on **modern web projects** with React & Next.js
-- 🌱 Currently learning **advanced state management** and **Next.js App Router**
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-- ⚡ Fun fact: **Writing clean code is a form of art**
-- 📫 Reach me on **Telegram** for collaborations
-
----
-
-## 🚀 What I Do
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎨 Frontend Development
-Building pixel-perfect, responsive interfaces using React, Next.js, and TailwindCSS with a strong focus on UX.
-
-</td>
-<td width="50%">
-
-### ⚙️ State Management
-Mastering Redux, Zustand, and Context API to build scalable and maintainable application state.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📱 Responsive Design
-Crafting layouts that look and work flawlessly across desktop, tablet, and mobile devices.
-
-</td>
-<td width="50%">
-
-### 🔄 Continuous Learning
-Constantly exploring new tools, frameworks, and best practices to grow as a full-stack developer.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,git,github,vscode,figma&theme=dark" />
+<p>
+<img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5"/>
+<img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3"/>
+<img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript"/>
+<img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript"/>
 </p>
 
-### Breakdown
+### ⚙️ Technologies
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/-React-000?&logo=React"/>
+<img src="https://img.shields.io/badge/-Next.js-000?&logo=next.js"/>
+<img src="https://img.shields.io/badge/-Redux-000?&logo=Redux"/>
+<img src="https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js"/>
+<img src="https://img.shields.io/badge/-Express-000?&logo=express"/>
+<img src="https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB"/>
+<img src="https://img.shields.io/badge/-Git-000?&logo=Git"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rivojiddincode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivojiddincode&layout=compact&theme=tokyonight&hide_border=true" />
-
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rivojiddincode&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+### 🚀 Projects
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rivojiddincode&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rivojiddincode&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 🗺️ Roadmap
-
-- [x] Master HTML, CSS, JavaScript fundamentals
-- [x] Build projects with React.js
-- [ ] Master advanced state management (Redux/Zustand)
-- [ ] Become proficient in Next.js (App Router, SSR, ISR)
-- [ ] Learn backend with Node.js & Express
-- [ ] Build and deploy full-stack applications
-- [ ] Contribute to open-source projects
-
----
-
-## ❓ FAQ
-
-<details>
-<summary><b>What technologies do you specialize in?</b></summary>
-<br/>
-I specialize in React.js and its ecosystem, with a strong focus on building responsive, user-friendly web interfaces using modern tools like Next.js and TailwindCSS.
-</details>
-
-<details>
-<summary><b>Are you open to collaboration?</b></summary>
-<br/>
-Yes! I'm always open to collaborating on interesting frontend projects. Feel free to reach out via Telegram.
-</details>
-
-<details>
-<summary><b>What are you currently learning?</b></summary>
-<br/>
-I'm currently deepening my knowledge of advanced state management patterns and exploring the Next.js App Router.
-</details>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://t.me/Rivojiddincode" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://linkedin.com/in/Rivojiddincode" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Rivojiddincode" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:rivojiddincode@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+<p>
+<a href="https://github.com/Rivojiddincode"><img src="https://img.shields.io/badge/-🎨%20Portfolio%20Website-000"/></a>
+<a href="https://github.com/Rivojiddincode"><img src="https://img.shields.io/badge/-📋%20Task%20Manager-000"/></a>
+<a href="https://github.com/Rivojiddincode"><img src="https://img.shields.io/badge/-🛒%20E--Commerce%20App-000"/></a>
+<a href="https://github.com/Rivojiddincode"><img src="https://img.shields.io/badge/-📊%20Admin%20Dashboard-000"/></a>
+<a href="https://github.com/Rivojiddincode"><img src="https://img.shields.io/badge/-💬%20Chat%20App-000"/></a>
+<a href="https://github.com/Rivojiddincode"><img src="https://img.shields.io/badge/-🎬%20Movie%20Search-000"/></a>
 </p>
 
----
+<br/>
 
-## 📄 License
+### 📊 GitHub Stats
 
-This profile README is open for inspiration — feel free to fork and customize it for your own GitHub profile under the **MIT License**.
+<div align="center">
+<a href="https://github.com/Rivojiddincode">
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=Rivojiddincode&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=2F81F7&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivojiddincode&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+</a>
+</div>
 
----
+<br/>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rivojiddincode&hide_border=true&background=00000000&ring=2F81F7&fire=ea6161&currStreakLabel=2F81F7"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-### ✨ Fun Fact: Master of None... yet 😄
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rivojiddincode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rivojiddincode)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rivojiddincode)
 
-### Made with ❤️ by Rivojiddincode
+<br/>
 
-[![Back to Top](https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge)](#-rivojiddincode)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
