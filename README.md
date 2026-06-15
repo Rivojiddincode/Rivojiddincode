@@ -1,93 +1,123 @@
-<div align="center">
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2483b&height=200&section=header&text=Rivojiddin&fontSize=60&fontColor=70a5fd&animation=fadeIn)  
+     
+<h3 align="center">🚀 Software Developer & Product Manager</h3>    
+<br>
+<hr/>    
+<img align="right" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding" width="230px">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rivojiddincode&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20React%20%26%20Next.js%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+interactive+web+apps+%F0%9F%9A%80;Mastering+React.js+%26+Next.js;Clean+code+is+a+form+of+art+%E2%9C%A8;Always+learning%2C+always+building)](https://github.com/Rivojiddincode)
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Rivojiddincode&label=Profile%20Views&color=2F81F7&style=flat-square)](https://github.com/Rivojiddincode)
-[![Followers](https://img.shields.io/github/followers/Rivojiddincode?label=Followers&style=flat-square&color=2F81F7)](https://github.com/Rivojiddincode?tab=followers)
-[![Telegram](https://img.shields.io/badge/Telegram-Message_Me-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Rivojiddincode)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rivojiddincode)
-
-</div>
-
-<br/>
-
-### 👋 About Me
-
-I'm a **passionate frontend developer** who loves building interactive, user-friendly, and responsive web applications. Currently focusing on mastering **React.js** and its ecosystem.
-
-- 🔭 Currently working on modern web projects
-- 🌱 Currently learning advanced state management and Next.js
-- 💬 Ask me about HTML, CSS, JavaScript, React
-- ⚡ Fun fact: writing clean code is a form of art
-
-<br/>
-
-### 🧰 Languages
-
-<p>
-<img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5"/>
-<img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3"/>
-<img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript"/>
-<img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;PM+%7C+.NET+Enthusiast;Always+Learning+New+Tech"/>
 </p>
 
-### ⚙️ Technologies
-
-<p>
-<img src="https://img.shields.io/badge/-React-000?&logo=React"/>
-<img src="https://img.shields.io/badge/-Next.js-000?&logo=next.js"/>
-<img src="https://img.shields.io/badge/-Redux-000?&logo=Redux"/>
-<img src="https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwind-css"/>
-<img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js"/>
-<img src="https://img.shields.io/badge/-Express-000?&logo=express"/>
-<img src="https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB"/>
-<img src="https://img.shields.io/badge/-Git-000?&logo=Git"/>
+<p align="center"> 
+  <a href="https://github.com/Rivojiddincode">
+    <img src="https://img.shields.io/github/followers/Rivojiddincode?style=social" alt="GitHub Followers" />
+  </a>
 </p>
 
-<br/>
+---
 
-### 🚀 Projects
+### 🚀 About Me
 
-<p>
-<a href="https://github.com/Rivojiddincode"><img src="https://img.shields.io/badge/-🎨%20Portfolio%20Website-000"/></a>
-<a href="https://github.com/Rivojiddincode"><img src="https://img.shields.io/badge/-📋%20Task%20Manager-000"/></a>
-<a href="https://github.com/Rivojiddincode"><img src="https://img.shields.io/badge/-🛒%20E--Commerce%20App-000"/></a>
-<a href="https://github.com/Rivojiddincode"><img src="https://img.shields.io/badge/-📊%20Admin%20Dashboard-000"/></a>
-<a href="https://github.com/Rivojiddincode"><img src="https://img.shields.io/badge/-💬%20Chat%20App-000"/></a>
-<a href="https://github.com/Rivojiddincode"><img src="https://img.shields.io/badge/-🎬%20Movie%20Search-000"/></a>
+Salom! Men Rivojiddin, .NET, Blazor, Web API va MySQL bo'yicha ixtisoslashgan Full Stack Developerman. Doimo yangi texnologiyalarni o'rganish va open-source loyihalarga hissa qo'shishga qiziqaman.
+
+🔹 Hozirgi fokus: .NET 9 Web API va Blazor Frontend yordamida onlayn kiyim do'koni yaratish  
+🔹 O'rganmoqdaman: C#, Product Management va Project Management ko'nikmalarini rivojlantirish  
+🔹 Qiziqishlarim: Clean UI/UX, Software Architecture va Startuplar
+
+---
+
+### Skills 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg" width="36" height="36" alt="Appwrite" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
+<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+<a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
+<a href="https://www.arweave.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arweave-colored.svg" width="36" height="36" alt="Arweave" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
+<a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" /></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
 
-<br/>
+### Socials
+                  
+<p align="left"> 
+<a href="https://github.com/Rivojiddincode" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </a>
+</p>
 
-### 📊 GitHub Stats
+---
 
-<div align="center">
-<a href="https://github.com/Rivojiddincode">
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=Rivojiddincode&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=2F81F7&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivojiddincode&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
-</a>
-</div>
+### 📊 GitHub Insights
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rivojiddincode&show_icons=true&theme=github_dark&hide=stars&rank_icon=github" alt="GitHub Stats" width="60%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rivojiddincode&theme=github-dark-blue" alt="Streak Stats" width="60%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivojiddincode&layout=compact&theme=github_dark" alt="Top Languages" width="50%"/>
+</p>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rivojiddincode&hide_border=true&background=00000000&ring=2F81F7&fire=ea6161&currStreakLabel=2F81F7"/>
-</div>
+---
 
-<br/>
+### 📆 Daily GitHub Plan
 
-<div align="center">
+✅ 1+ commit – Har kuni kamida bitta commit  
+✅ 1+ issue – Har kuni bir issue yaratish yoki hal qilish  
+✅ 1+ pull request – PR ochish yoki ko'rib chiqish  
+✅ Repository maintenance – Loyihalarni tozalash va tartibga solish  
+✅ New technology learning – Yangi framework va kutubxonalarni o'rganish
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rivojiddincode)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rivojiddincode)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rivojiddincode)
+---
 
-<br/>
+### 🤝 Hamkorlik qilamiz!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+Agar siz qiziqarli loyihalar yaratish bilan qiziqsangiz yoki shunchaki bog'lanishni xohlasangiz — men doimo hamkorlikka ochiqman! Birgalikda innovatsiya qilamiz 👨‍💻✨
 
-</div>
+---
+
+<p align="center">
+  © 2026 Rivojiddin — Crafted with ❤️ from Uzbekistan 🇺🇿
+</p>
